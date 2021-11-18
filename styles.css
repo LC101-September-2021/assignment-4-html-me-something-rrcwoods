@@ -1,20 +1,19 @@
-/*#Me{
-   max-width: 100%;
-   height:auto;
-   width:auto;
+
+
+
+#mainHeading {
+   color: red;
 }
-*/
 
-.header{
-
-   background-color: rgb(255, 255, 255);
-
+#testP {
+   color: green;
 }
+
 
 body{
    display: block;
-   background-color: rgba(80, 156, 255, 0.651);
    margin:8px;
+   background-color: rgba(80, 156, 255, 0.651);
    text-align: center;
    font-family:'Verdana',Geneva,sans-serif
  }
@@ -39,7 +38,16 @@ h1 {
    font-size: 1.2;
    margin-top:0;
    font-family:'Parisienne', cursive;
+   color: #a34d07;
+ }
+
+ h4 {
+
+   font-size: 1.2;
+   margin-top:0;
+   font-family:'Parisienne', cursive;
    color: #0ab13c;
+
  }
 
 
