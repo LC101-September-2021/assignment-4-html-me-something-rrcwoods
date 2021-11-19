@@ -1,0 +1,130 @@
+
+
+
+#mainHeading {
+   color: red;
+}
+
+#testP {
+   color: green;
+}
+
+
+body{
+   display: block;
+   margin:8px;
+   background-color: rgba(80, 156, 255, 0.651);
+   text-align: center;
+   font-family:'Verdana',Geneva,sans-serif
+ }
+ 
+
+h1 {
+   font-size: 1.625rem;
+   margin-top:0;
+   font-family:'Parisienne', cursive;
+   color: #e40f0f;
+ }
+
+ h2 {
+   font-size: 1.625rem;
+   margin-top:0;
+   font-family:'Parisienne', cursive;
+   color: #16488d;
+ }
+
+
+ h3 {
+   font-size: 1.2;
+   margin-top:0;
+   font-family:'Parisienne', cursive;
+   color: #a34d07;
+ }
+
+ h4 {
+
+   font-size: 1.2;
+   margin-top:0;
+   font-family:'Parisienne', cursive;
+   color: #0ab13c;
+
+ }
+
+
+
+.Web {
+  text-decoration: underline;
+}
+
+#Me {
+  height: 30%;
+  width:  30%;  
+  image-rendering: auto;
+  border-image-slice: 10%;
+  }
+ 
+#MyCert {
+   height: 55%;
+   width:  55%;  
+   image-rendering: auto;
+   }
+
+#MyIdealRole {
+      height: 80%;
+      width:  80%;  
+      image-rendering: auto;
+      }
+
+#BoxingMMA {
+      height: 55%;
+      width:  55%;  
+      image-rendering: auto;
+      }
+
+#Island {
+      height: 55%;
+      width:  55%;  
+      image-rendering: auto;
+      }
+
+#Wife {
+      height: 35%;
+      width:  35%;  
+      image-rendering: auto;
+      }
+
+#Faith {
+      height: 55%;
+      width:  55%;  
+      image-rendering: auto;
+     }
+
+   
+div {
+      font-family: Cinzel, serif;
+      font-size: 25px;  
+      color: rgb(94, 59, 7);
+      border: 1px solid rgb(255, 252, 252);
+      margin-top: 45px;
+      margin-bottom: 45px;
+      margin-right: 70px;
+      margin-left: 80px;
+      background-color: lightblue;
+      padding: 25px 50px 75px 100px;
+    }
+
+    .endof2021 {
+      background-color: rgb(10, 4, 46);
+    }
+    
+
+       
+    
+ 
+ 
+
+
+     
+          
+
+
